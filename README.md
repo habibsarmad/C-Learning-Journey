@@ -23,3 +23,4 @@ To develop strong programming fundamentals and problem-solving skills as a Compu
 ## Progress Log
 
 - Day 1: Repository Created
+- Day 2: 
